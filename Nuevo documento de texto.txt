@@ -1,0 +1,10 @@
+i couldn't set the button to change the color when clicked depending on what schema is representing
+not onclick 
+not addEventListener 
+i'm done
+fucking did it
+css tricks-checkbox hack 
+sa-ti iti dea dumnezeu sanatate
+
+gata pauze
+
